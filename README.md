@@ -45,5 +45,5 @@ enhance customer engagement, and create smarter, more human-centered digital sol
 
 > _Always learning. Always building. Focused on solutions that make technology accessible, elegant, and effective._
 
-→ Got a wild idea or a painful workflow?  
-   DM me on LinkedIn or mailto:info@rankitbetter.com — let’s make it stupidly simple.
+→ Got a wild idea or a painful process?  
+  Message me on [LinkedIn](https://www.linkedin.com/in/robert-cushman3/) or [email me](mailto:info@rankitbetter.com) — together, we’ll make something great.
