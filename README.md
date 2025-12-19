@@ -72,8 +72,9 @@ This project reflects my background in communication, UX clarity, and building s
 ## 💬 Let’s Connect
 If you're building an AI-powered product or modernizing an existing system, I’m happy to talk.
 
-**Consulting:** info@cushlabs.ai  
-**Portfolio:** :contentReference[oaicite:0]{index=0}  
-**Connect:** :contentReference[oaicite:1]{index=1}  
+- **Consulting:** info@cushlabs.ai  
+- **Portfolio:** https://cusshlabs.ai  
+- **LinkedIn:** https://www.linkedin.com/in/robertcushman  
 
-Developers: always happy to chat about LLMs, architecture decisions, or lessons learned from many years of “why isn’t this working?”
+Developers are always welcome — happy to chat about LLMs, architecture decisions, and lessons learned from years of building and fixing real systems.
+
