@@ -74,7 +74,7 @@ If you're building an AI-powered product or modernizing an existing system, I’
 
 - **Consulting:** info@cushlabs.ai  
 - **Portfolio:** https://cushlabs.ai  
-- **LinkedIn:** https://www.linkedin.com/in/robertcushman  
+- **LinkedIn:** https://www.linkedin.com/in/robert-cushman3/  
 
 Developers are always welcome — happy to chat about LLMs, architecture decisions, and lessons learned from years of building and fixing real systems.
 
