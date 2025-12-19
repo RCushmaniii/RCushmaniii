@@ -1,49 +1,79 @@
-## Hey, I'm Robert 👋
-
-**Full-Stack Developer • AI Solutions Architect**  
+Hey, I’m Robert 👋  
+Full-Stack Developer · AI-Assisted Product Builder  
 Guadalajara, Mexico 🇲🇽
 
-I build AI-powered web applications for businesses that require modern solutions without the complexity of enterprise systems.
+![LLM Builder](https://img.shields.io/badge/Focus-LLM%20Product%20Development-0f172a)
+![Full Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Python-1f2937)
+![AI Assisted](https://img.shields.io/badge/Approach-AI--Assisted%20Development-334155)
+![Based in Mexico](https://img.shields.io/badge/Based%20in-Mexico-065f46)
 
-**Background:** 25 years in enterprise IT (managed infrastructure for 26K employees, built custom SharePoint/.NET systems, traveled as IT consultant). Now I'm applying that architecture experience to a modern stack: React, Python, AI APIs, and serverless platforms.
+I design and build AI-assisted web applications using LLMs and modern web stacks — focused on practical products that real businesses can actually use.
 
-**What I do:**
-- Help SMBs integrate AI into their workflows (automation, customer tools, data analysis)
-- Build production-ready web apps with React, TypeScript, and Python
-- Experiment with AI agents, modern frameworks, and developer tools
-- Share what I'm learning through open-source projects
-
-**Why work with me:**  
-I've debugged enterprise systems at 3 am and explained technical decisions to C-suite execs. I know how to build things that don't break, and I can translate "AI buzzwords" into actual business value.
+This work is part of **CushLabs.ai** — my AI product studio focused on building calm, practical AI tools with LLMs and modern web stacks.
 
 ---
 
-### 🛠 Tech Stack
+## Background
+I’ve spent decades working in enterprise IT and consulting — managing infrastructure at scale, building internal systems, and supporting teams and executives in high-stakes environments.
 
+That experience now informs how I approach modern stacks: React, TypeScript, Python, AI APIs, and serverless platforms — with an emphasis on durability, clarity, and long-term maintainability.
+
+---
+
+## What I do
+- Design and build AI-assisted web applications powered by LLMs  
+- Implement practical AI features (analysis, search, assistants, copilots)  
+- Ship production-ready apps with React, TypeScript, and Python  
+- Explore modern AI tooling and share learnings through open-source projects  
+
+---
+
+## Why work with me
+I’ve debugged enterprise systems at 3 a.m. *and* explained technical trade-offs to C-suite leaders. I know how to build systems that don’t fall apart — and how to translate AI buzzwords into clear, usable products.
+
+---
+
+## Philosophy
+I focus on building AI-assisted systems that are understandable, maintainable, and genuinely useful — not demos held together by prompts.
+
+I believe good AI products:
+- Respect human judgment instead of replacing it  
+- Favor clarity over cleverness  
+- Ship small, real value early  
+- Age well as models, tools, and APIs change  
+
+Most of my work lives at the intersection of LLM capability, UX clarity, and business reality.
+
+---
+
+## 🚀 Selected Projects
+- **AI Resume Tailor** — Full-stack LLM-powered app that analyzes resumes against job descriptions using React, Flask, and OpenAI APIs.
+- **AI Chatbot SaaS** — Early-stage SaaS platform for building and managing LLM-powered chatbots with modern web architecture.
+- **Next.js + Supabase Auth Starter** — Production-ready authentication scaffold for modern AI-assisted web applications.
+
+---
+
+## 🧩 Related Work — New York English Teacher
+- **NY English Teacher** — Production web platform supporting executive-level English coaching, curriculum delivery, and client engagement for real users.
+
+This project reflects my background in communication, UX clarity, and building systems people actually use — skills I now apply directly to AI-assisted product development.
+
+---
+
+## 🛠 Tech Stack
 **Frontend:** React, Astro, TypeScript, Tailwind CSS, Vite  
 **Backend:** Python (Flask), Node.js, Supabase, PostgreSQL  
-**AI/ML:** OpenAI GPT-4, Anthropic Claude API, LangChain  
-**DevOps:** Vercel, Render, GitHub Actions, Cloudflare  
-**Learning:** AI agent frameworks, modern Python patterns, serverless architecture
+**AI:** OpenAI (GPT-4+), Anthropic Claude, Claude Code, LLM tooling  
+**DevOps:** Vercel, Cloudflare, GitHub Actions  
+**Currently Learning:** AI agents, modern Python patterns, serverless architectures  
 
 ---
 
-### 🚀 Recent Projects
+## 💬 Let’s Connect
+If you're building an AI-powered product or modernizing an existing system, I’m happy to talk.
 
-**[AI Resume Tailor](https://github.com/RCushmaniii/ai-resume-tailor)** - Full-stack app with React + Flask + OpenAI API. Analyzes resumes against job descriptions in 60 seconds. [Live Demo](https://ai-resume-tailor-client.vercel.app)
+**Consulting:** info@cushlabs.ai  
+**Portfolio:** :contentReference[oaicite:0]{index=0}  
+**Connect:** :contentReference[oaicite:1]{index=1}  
 
-**[More projects coming]** - Currently building AI-powered tools for business automation and customer engagement.
-
----
-
-### 💬 Let's Connect
-
-Building an AI tool for your business? Need help integrating modern tech into existing systems? Let's talk.
-
-**For consulting:** [info@rankitbetter.com](mailto:info@rankitbetter.com)  
-**Portfolio:** [RankItBetter.com](https://rankitbetter.com)  
-**Connect:** [LinkedIn](https://linkedin.com/in/robert-cushman3)
-
----
-
-> **Developers:** Always happy to chat about AI integration, architecture decisions, or lessons learned from 25 years of "why isn't this working?!" Open to collaborations.
+Developers: always happy to chat about LLMs, architecture decisions, or lessons learned from many years of “why isn’t this working?”
