@@ -2,10 +2,11 @@ Robert Cushman
 AI Transformation Consultant · Solution Architect
 Guadalajara, Mexico 🇲🇽
 
-![LLM Builder](https://img.shields.io/badge/Focus-LLM%20Product%20Development-0f172a)
-![Full Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Python-1f2937)
-![AI Assisted](https://img.shields.io/badge/Approach-AI--Assisted%20Development-334155)
-![Based in Mexico](https://img.shields.io/badge/Based%20in-Mexico-065f46)
+![AI Transformation](https://img.shields.io/badge/Focus-AI%20Transformation-0f172a)
+![Digital Transformation](https://img.shields.io/badge/Focus-Digital%20Transformation-1f2937)
+![Solution Architecture](https://img.shields.io/badge/Role-Solution%20Architect-334155)
+![Technology Strategy](https://img.shields.io/badge/Focus-Technology%20Strategy-475569)
+
 
 I design and build AI-assisted web applications using LLMs and modern web stacks — focused on practical products that real businesses can actually use.
 
