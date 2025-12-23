@@ -1,5 +1,5 @@
-Hey, I’m Robert 👋  
-Full-Stack Developer · AI-Assisted Product Builder  
+Robert Cushman
+AI Transformation Consultant · Solution Architect
 Guadalajara, Mexico 🇲🇽
 
 ![LLM Builder](https://img.shields.io/badge/Focus-LLM%20Product%20Development-0f172a)
