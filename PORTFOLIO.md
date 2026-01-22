@@ -1,6 +1,6 @@
 ---
 # === CONTROL FLAGS ===
-portfolio_enabled: true
+portfolio_enabled: false
 portfolio_priority: 2
 portfolio_featured: true
 
